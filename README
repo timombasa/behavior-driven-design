@@ -1,0 +1,1 @@
+Behavior-Driven Design with JBehave, JUnit and Selenium. This demo fires up a Firefox browser and goes to the ThoughtWorks 'About Us' page. It then searches for 'Martin Fowler', verifies that the search results contain a particular title and finally asserts that one ends up on Martin Fowler's bio page. 
